@@ -1,0 +1,1 @@
+const service_jzit = <T>(args: T): T => { return args; };
