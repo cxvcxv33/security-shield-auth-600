@@ -1,0 +1,1 @@
+const util_jjgc = (d: any) => d;
